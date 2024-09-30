@@ -2,5 +2,3 @@
 Microsoft EMEA - Tech for Social Impact - Cloud Solution Architect
 
 Helping nonprofits in their data journey on Azure.
-
-twitter.com/geertdegraaf
